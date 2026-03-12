@@ -18,6 +18,14 @@ app.py: Interface utilisateur interactive.
 
 ## Installation
 
+### Cloner le projet
+git clone https://github.com/ton-pseudo/shift-sync-ai.git
+cd shift-sync-ai
+
+### Installer les dépendances
+pip install -r requirements.txt
+
+### Lancer l'application
 streamlit run app.py
 
 ## Analyse des Résultats
