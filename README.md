@@ -20,6 +20,7 @@ app.py: Interface utilisateur interactive.
 
 ### Cloner le projet
 git clone https://github.com/ton-pseudo/shift-sync-ai.git
+
 cd shift-sync-ai
 
 ### Installer les dépendances
